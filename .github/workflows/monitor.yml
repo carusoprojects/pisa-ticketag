@@ -3,6 +3,8 @@ on:
   schedule:
     - cron: "0 */6 * * *"   # riparte ogni 6 ore
   workflow_dispatch:         # avvio manuale dal tab Actions
+permissions:
+  contents: write
 concurrency:
   group: ticketag
   cancel-in-progress: false
@@ -17,6 +19,7 @@ jobs:
       - run: pip install playwright requests && python -m playwright install --with-deps chromium
       - run: python monitor.py
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           TICKETAG_URL: ${{ vars.TICKETAG_URL }}
           INTERVAL: "60"
