@@ -1,7 +1,7 @@
-Aggiornato: 2026-10-26 20:19:08.659358
+Aggiornato: 2026-10-26 20:19:43.292072
 
 == Curva Nord ==
-Curva Nord n° NS17 | INTERO | Fila 11, Posto 13 | 25,00 €*
+
 
 == JSON tickets ==
 {
@@ -75,18 +75,6 @@ Curva Nord n° NS17 | INTERO | Fila 11, Posto 13 | 25,00 €*
    "row": "13",
    "seat": "4",
    "price": 3500,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "2969bd1a-4912-4b99-a519-9185ecfa28e7",
-   "section": "Curva Nord",
-   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "NS17",
-   "row": "11",
-   "seat": "13",
-   "price": 2500,
    "priceOfficial": 0,
    "isMine": false
   }
