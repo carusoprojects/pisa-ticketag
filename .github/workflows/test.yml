@@ -1,0 +1,24 @@
+name: Test notifica
+on:
+  workflow_dispatch:
+    inputs:
+      sector:
+        description: "Settore da usare per il test (deve avere posti in vendita)"
+        default: "Gradinata"
+permissions:
+  contents: write
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install playwright requests && python -m playwright install --with-deps chromium
+      - run: python monitor.py
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TICKETAG_URL: ${{ vars.TICKETAG_URL }}
+          SECTOR: ${{ inputs.sector }}
+          DURATION: "1"
