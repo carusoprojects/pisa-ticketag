@@ -1,117 +1,100 @@
-Aggiornato: 2026-10-26 11:48:41.087821
+Aggiornato: 2026-10-26 11:55:31.683792
 
-== API ==
-https://customer-care.ticketag.it/api/v1/widget/campaigns?website_token=H8jtJtYmkd98bytjAws5Ux7g
-https://customer-care.ticketag.it/api/v1/widget/contact?website_token=H8jtJtYmkd98bytjAws5Ux7g
-https://customer-care.ticketag.it/api/v1/widget/conversations?website_token=H8jtJtYmkd98bytjAws5Ux7g
-https://customer-care.ticketag.it/api/v1/widget/inbox_members?website_token=H8jtJtYmkd98bytjAws5Ux7g
-https://customer-care.ticketag.it/api/v1/widget/messages?website_token=H8jtJtYmkd98bytjAws5Ux7g
-https://pisa-ticketag.ticketone.it/api/communications
-https://pisa-ticketag.ticketone.it/api/eventIssuers
-https://pisa-ticketag.ticketone.it/api/eventIssuers/78f31f52-73ee-4f7f-b4b2-3350b79d6883/reductionCodes
-https://pisa-ticketag.ticketone.it/api/eventLocations/af2c888e-4eb6-4cf2-9c4e-ac0ab7d6bb4e/sections
-https://pisa-ticketag.ticketone.it/api/events/6a25c494-e1ef-461e-86f4-1da67a546010
-https://pisa-ticketag.ticketone.it/api/events/6a25c494-e1ef-461e-86f4-1da67a546010/tickets
+== Curva Nord ==
 
-== TESTO PAGINA ==
-Pisa-Palermo: rivendita fino alle 15:00 di mercoledì 28 ottobre
 
-Per la gara di mercoledì 28 ottobre alle 19:00, la rivendita su Ticketag resterà attiva fino alle 15:00, cioè 4 ore prima del fischio d’inizio. Se vuoi vendere o acquistare un biglietto, completa l’operazione entro quell’orario: dopo le 15:00 il servizio sarà disattivato e non sarà più possibile effettuare cambi di titolarità.
-
-✕
-COME FUNZIONA
-PARTITE
-Pisa S.C. vs Palermo F.C.
-
-Stadio Romeo Anconetani - Arena Garibaldi
-
-Mercoledì 28 Ottobre, ore 18:00
-
-Settori
-Curva NordTribuna SuperioreGradinataCurva SudTribuna Inferiore
-N. biglietti
-Tutti
-Tipologia
-Under 14
-Under 18
-Invalidi
-Over 70
-Intero
-Prezzo
-Qualsiasi
-SETTORE
-TIPO ABBONAMENTO
-FILA E POSTO
-PREZZO
-Tribuna Inferiore n° TI04
-OVER 70
-
-Fila: 8, Posto: 29
-
-55,00 €*
-
-PRENDI IL POSTO
-Tribuna Inferiore n° TI04
-OVER 70
-
-Fila: 8, Posto: 31
-
-55,00 €*
-
-PRENDI IL POSTO
-Tribuna Inferiore n° TI03
-OVER 70
-
-Fila: 8, Posto: 20
-
-55,00 €*
-
-PRENDI IL POSTO
-Gradinata n° GR08
-UNDER 18
-
-Fila: 13, Posto: 8
-
-35,00 €*
-
-PRENDI IL POSTO
-Curva Sud n° SS02
-UNDER 18
-
-Fila: 8, Posto: 10
-
-25,00 €*
-
-PRENDI IL POSTO
-Gradinata n° GR08
-UNDER 18
-
-Fila: 13, Posto: 4
-
-35,00 €*
-
-PRENDI IL POSTO
-
-* Questo è il prezzo definitivo inclusivo del costo del biglietto, dei costi del servizio di Ticketag e della piattaforma di pagamento “Stripe”
-
-** Prezzo di facciata del singolo biglietto intero al botteghino.
-
-Supporto
-Domande frequenti
-Assistenza
-Ticketag
-Privacy Policy
-Termini e condizioni
-Preferenze cookies
-Link rapidi
-Pisa S.C.
-Biglietteria
-Membership
-
-TICKETAG S.R.L. | SEDE LEGALE: VIA MARCO ULPIO TRAIANO 11 20149 MILANO | CF E P.IVA 09856600961
-
-Serve aiuto? 👋
-Accetta i Cookies
-COOKIE TECNICI
-Servono per svolgere le funzioni essenziali del sito, e quindi necessari al suo corretto funzionamento. In particolare utilizziamo i cookies: c_user, datr, fr, sb, xr provenienti da per la gestione della chat di assistenza.
-ACCETTA
+== JSON tickets ==
+{
+ "tickets": [
+  {
+   "uuid": "02cb281d-3da0-494e-9bcf-e78d26720aba",
+   "section": "Tribuna Inferiore",
+   "sectionUuid": "fb7f5422-fb31-4773-841c-5d1332970519",
+   "reductionCodeUuid": "c39b7835-1b18-49ec-8e6d-f827b8ffda20",
+   "subSection": "TI04",
+   "row": "8",
+   "seat": "29",
+   "price": 5500,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "ad7b9834-e716-4039-9e71-144e97b4a3f9",
+   "section": "Tribuna Inferiore",
+   "sectionUuid": "fb7f5422-fb31-4773-841c-5d1332970519",
+   "reductionCodeUuid": "c39b7835-1b18-49ec-8e6d-f827b8ffda20",
+   "subSection": "TI04",
+   "row": "8",
+   "seat": "31",
+   "price": 5500,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "f898c60a-ed5f-4c2e-905d-2cea48c0712f",
+   "section": "Tribuna Inferiore",
+   "sectionUuid": "fb7f5422-fb31-4773-841c-5d1332970519",
+   "reductionCodeUuid": "c39b7835-1b18-49ec-8e6d-f827b8ffda20",
+   "subSection": "TI03",
+   "row": "8",
+   "seat": "20",
+   "price": 5500,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "750de9e2-fc1a-4063-82b1-97ee5b30f263",
+   "section": "Gradinata",
+   "sectionUuid": "a3522fc6-edb8-4ad1-8084-3fd6a34d1cda",
+   "reductionCodeUuid": "b311876e-14e5-440a-8662-e0b9e9c3bbf2",
+   "subSection": "GR08",
+   "row": "13",
+   "seat": "8",
+   "price": 3500,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "f8851f7b-634f-4075-93e5-f0ef6f107bf2",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "b311876e-14e5-440a-8662-e0b9e9c3bbf2",
+   "subSection": "SS02",
+   "row": "8",
+   "seat": "10",
+   "price": 2500,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "c9715638-756c-48e4-8c8a-f4cb02dc8488",
+   "section": "Gradinata",
+   "sectionUuid": "a3522fc6-edb8-4ad1-8084-3fd6a34d1cda",
+   "reductionCodeUuid": "b311876e-14e5-440a-8662-e0b9e9c3bbf2",
+   "subSection": "GR08",
+   "row": "13",
+   "seat": "4",
+   "price": 3500,
+   "priceOfficial": 0,
+   "isMine": false
+  }
+ ],
+ "bundles": [],
+ "soldCount": 62,
+ "lastSold": [
+  {
+   "section": "Curva Sud",
+   "subSection": "SS04",
+   "row": "9",
+   "seat": "10",
+   "price": 2500
+  },
+  {
+   "section": "Gradinata",
+   "subSection": "GR08",
+   "row": "13",
+   "seat": "6",
+   "price": 3500
+  }
+ ]
+}
