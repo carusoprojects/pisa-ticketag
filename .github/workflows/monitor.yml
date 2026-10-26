@@ -22,5 +22,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           TICKETAG_URL: ${{ vars.TICKETAG_URL }}
-          INTERVAL: "60"
+          INTERVAL: "30"
           DURATION: "20700"   # ~5h45, poi parte il turno successivo
