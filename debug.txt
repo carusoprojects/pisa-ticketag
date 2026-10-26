@@ -1,7 +1,7 @@
-Aggiornato: 2026-10-26 18:33:27.448800
+Aggiornato: 2026-10-26 18:34:02.482802
 
 == Curva Nord ==
-Curva Nord n° NIC | INTERO | Fila 1, Posto 15 | 25,00 €*
+
 
 == JSON tickets ==
 {
@@ -51,18 +51,6 @@ Curva Nord n° NIC | INTERO | Fila 1, Posto 15 | 25,00 €*
    "row": "13",
    "seat": "8",
    "price": 3500,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "d7b8b970-8c6d-4018-b448-ce387243cc4a",
-   "section": "Curva Nord",
-   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "NIC",
-   "row": "1",
-   "seat": "15",
-   "price": 2500,
    "priceOfficial": 0,
    "isMine": false
   },
