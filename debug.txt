@@ -1,0 +1,117 @@
+Aggiornato: 2026-10-26 11:48:41.087821
+
+== API ==
+https://customer-care.ticketag.it/api/v1/widget/campaigns?website_token=H8jtJtYmkd98bytjAws5Ux7g
+https://customer-care.ticketag.it/api/v1/widget/contact?website_token=H8jtJtYmkd98bytjAws5Ux7g
+https://customer-care.ticketag.it/api/v1/widget/conversations?website_token=H8jtJtYmkd98bytjAws5Ux7g
+https://customer-care.ticketag.it/api/v1/widget/inbox_members?website_token=H8jtJtYmkd98bytjAws5Ux7g
+https://customer-care.ticketag.it/api/v1/widget/messages?website_token=H8jtJtYmkd98bytjAws5Ux7g
+https://pisa-ticketag.ticketone.it/api/communications
+https://pisa-ticketag.ticketone.it/api/eventIssuers
+https://pisa-ticketag.ticketone.it/api/eventIssuers/78f31f52-73ee-4f7f-b4b2-3350b79d6883/reductionCodes
+https://pisa-ticketag.ticketone.it/api/eventLocations/af2c888e-4eb6-4cf2-9c4e-ac0ab7d6bb4e/sections
+https://pisa-ticketag.ticketone.it/api/events/6a25c494-e1ef-461e-86f4-1da67a546010
+https://pisa-ticketag.ticketone.it/api/events/6a25c494-e1ef-461e-86f4-1da67a546010/tickets
+
+== TESTO PAGINA ==
+Pisa-Palermo: rivendita fino alle 15:00 di mercoledì 28 ottobre
+
+Per la gara di mercoledì 28 ottobre alle 19:00, la rivendita su Ticketag resterà attiva fino alle 15:00, cioè 4 ore prima del fischio d’inizio. Se vuoi vendere o acquistare un biglietto, completa l’operazione entro quell’orario: dopo le 15:00 il servizio sarà disattivato e non sarà più possibile effettuare cambi di titolarità.
+
+✕
+COME FUNZIONA
+PARTITE
+Pisa S.C. vs Palermo F.C.
+
+Stadio Romeo Anconetani - Arena Garibaldi
+
+Mercoledì 28 Ottobre, ore 18:00
+
+Settori
+Curva NordTribuna SuperioreGradinataCurva SudTribuna Inferiore
+N. biglietti
+Tutti
+Tipologia
+Under 14
+Under 18
+Invalidi
+Over 70
+Intero
+Prezzo
+Qualsiasi
+SETTORE
+TIPO ABBONAMENTO
+FILA E POSTO
+PREZZO
+Tribuna Inferiore n° TI04
+OVER 70
+
+Fila: 8, Posto: 29
+
+55,00 €*
+
+PRENDI IL POSTO
+Tribuna Inferiore n° TI04
+OVER 70
+
+Fila: 8, Posto: 31
+
+55,00 €*
+
+PRENDI IL POSTO
+Tribuna Inferiore n° TI03
+OVER 70
+
+Fila: 8, Posto: 20
+
+55,00 €*
+
+PRENDI IL POSTO
+Gradinata n° GR08
+UNDER 18
+
+Fila: 13, Posto: 8
+
+35,00 €*
+
+PRENDI IL POSTO
+Curva Sud n° SS02
+UNDER 18
+
+Fila: 8, Posto: 10
+
+25,00 €*
+
+PRENDI IL POSTO
+Gradinata n° GR08
+UNDER 18
+
+Fila: 13, Posto: 4
+
+35,00 €*
+
+PRENDI IL POSTO
+
+* Questo è il prezzo definitivo inclusivo del costo del biglietto, dei costi del servizio di Ticketag e della piattaforma di pagamento “Stripe”
+
+** Prezzo di facciata del singolo biglietto intero al botteghino.
+
+Supporto
+Domande frequenti
+Assistenza
+Ticketag
+Privacy Policy
+Termini e condizioni
+Preferenze cookies
+Link rapidi
+Pisa S.C.
+Biglietteria
+Membership
+
+TICKETAG S.R.L. | SEDE LEGALE: VIA MARCO ULPIO TRAIANO 11 20149 MILANO | CF E P.IVA 09856600961
+
+Serve aiuto? 👋
+Accetta i Cookies
+COOKIE TECNICI
+Servono per svolgere le funzioni essenziali del sito, e quindi necessari al suo corretto funzionamento. In particolare utilizziamo i cookies: c_user, datr, fr, sb, xr provenienti da per la gestione della chat di assistenza.
+ACCETTA
