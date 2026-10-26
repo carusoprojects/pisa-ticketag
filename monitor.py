@@ -34,6 +34,21 @@ def notify(title, body):
     except Exception as e:
         log(f"Errore notifica: {e}")
 
+def save_debug(text, api_seen):
+    """Salva testo pagina e chiamate API nel repo (debug.txt) per poterle analizzare."""
+    tok, repo = os.environ.get("GITHUB_TOKEN"), os.environ.get("GITHUB_REPOSITORY")
+    if not (tok and repo):
+        return
+    import base64
+    body = f"Aggiornato: {datetime.datetime.now()}\n\n== API ==\n" + "\n".join(sorted(api_seen)) + \
+           "\n\n== TESTO PAGINA ==\n" + text
+    url = f"https://api.github.com/repos/{repo}/contents/debug.txt"
+    h = {"Authorization": f"token {tok}", "Accept": "application/vnd.github+json"}
+    sha = requests.get(url, headers=h, timeout=10).json().get("sha")
+    data = {"message": "debug", "content": base64.b64encode(body.encode()).decode()}
+    if sha: data["sha"] = sha
+    requests.put(url, headers=h, json=data, timeout=10)
+
 def check(page, api_seen):
     page.goto(URL, wait_until="networkidle", timeout=45000)
     page.wait_for_timeout(2500)  # lascia finire il rendering
@@ -60,8 +75,10 @@ def main():
             try:
                 text, available = check(page, api_seen)
                 h = hashlib.md5(text.encode()).hexdigest()
-                if first:
-                    log("Testo della pagina (stato iniziale):\n" + text[:2000])
+                if first or h != last_hash:
+                    log("Testo della pagina:\n" + text[:2000])
+                    try: save_debug(text, api_seen)
+                    except Exception as e: log(f"Errore debug: {e}")
                 if available and h != last_hash:
                     snippet = " ".join(text.split())[:300]
                     log("BIGLIETTI DISPONIBILI! Notifica inviata.")
