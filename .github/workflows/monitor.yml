@@ -1,0 +1,23 @@
+name: Ticketag monitor
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # riparte ogni 6 ore
+  workflow_dispatch:         # avvio manuale dal tab Actions
+concurrency:
+  group: ticketag
+  cancel-in-progress: false
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install playwright requests && python -m playwright install --with-deps chromium
+      - run: python monitor.py
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TICKETAG_URL: ${{ vars.TICKETAG_URL }}
+          INTERVAL: "60"
+          DURATION: "20700"   # ~5h45, poi parte il turno successivo
