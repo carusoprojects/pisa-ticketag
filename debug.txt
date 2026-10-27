@@ -1,11 +1,23 @@
-Aggiornato: 2026-10-27 17:28:25.707796
+Aggiornato: 2026-10-27 17:42:50.520072
 
 == Curva Nord ==
-
+Curva Nord n° NIA | UNDER 14 | Fila 2, Posto 2 | 12,00 €*
 
 == JSON tickets ==
 {
  "tickets": [
+  {
+   "uuid": "02cb281d-3da0-494e-9bcf-e78d26720aba",
+   "section": "Tribuna Inferiore",
+   "sectionUuid": "fb7f5422-fb31-4773-841c-5d1332970519",
+   "reductionCodeUuid": "c39b7835-1b18-49ec-8e6d-f827b8ffda20",
+   "subSection": "TI04",
+   "row": "8",
+   "seat": "29",
+   "price": 5500,
+   "priceOfficial": 0,
+   "isMine": false
+  },
   {
    "uuid": "ad7b9834-e716-4039-9e71-144e97b4a3f9",
    "section": "Tribuna Inferiore",
@@ -15,6 +27,18 @@ Aggiornato: 2026-10-27 17:28:25.707796
    "row": "8",
    "seat": "31",
    "price": 5500,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "ecc6ad7c-a021-4f70-811a-31b96d01d6bb",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "0e4225d1-a702-41de-a32f-ae486df6440a",
+   "subSection": "NIA",
+   "row": "2",
+   "seat": "2",
+   "price": 1200,
    "priceOfficial": 0,
    "isMine": false
   },
