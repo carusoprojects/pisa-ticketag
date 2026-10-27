@@ -1,7 +1,7 @@
-Aggiornato: 2026-10-27 13:00:43.255976
+Aggiornato: 2026-10-27 13:28:21.999388
 
 == Curva Nord ==
-
+Curva Nord n° NS01 | UNDER 18 | Fila 4, Posto 3 | 25,00 €*
 
 == JSON tickets ==
 {
@@ -14,6 +14,18 @@ Aggiornato: 2026-10-27 13:00:43.255976
    "subSection": "TI04",
    "row": "8",
    "seat": "29",
+   "price": 5500,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "ad7b9834-e716-4039-9e71-144e97b4a3f9",
+   "section": "Tribuna Inferiore",
+   "sectionUuid": "fb7f5422-fb31-4773-841c-5d1332970519",
+   "reductionCodeUuid": "c39b7835-1b18-49ec-8e6d-f827b8ffda20",
+   "subSection": "TI04",
+   "row": "8",
+   "seat": "31",
    "price": 5500,
    "priceOfficial": 0,
    "isMine": false
@@ -39,6 +51,54 @@ Aggiornato: 2026-10-27 13:00:43.255976
    "row": "13",
    "seat": "8",
    "price": 3500,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "f8851f7b-634f-4075-93e5-f0ef6f107bf2",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "b311876e-14e5-440a-8662-e0b9e9c3bbf2",
+   "subSection": "SS02",
+   "row": "8",
+   "seat": "10",
+   "price": 2500,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "c9715638-756c-48e4-8c8a-f4cb02dc8488",
+   "section": "Gradinata",
+   "sectionUuid": "a3522fc6-edb8-4ad1-8084-3fd6a34d1cda",
+   "reductionCodeUuid": "b311876e-14e5-440a-8662-e0b9e9c3bbf2",
+   "subSection": "GR08",
+   "row": "13",
+   "seat": "4",
+   "price": 3500,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "cb9abef7-73b3-427b-b5bd-b2fb60c84bc9",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "b311876e-14e5-440a-8662-e0b9e9c3bbf2",
+   "subSection": "NS01",
+   "row": "4",
+   "seat": "3",
+   "price": 2500,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "afe41b23-53ce-49ac-8dbf-abc566215bd9",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "0e4225d1-a702-41de-a32f-ae486df6440a",
+   "subSection": "SS02",
+   "row": "12",
+   "seat": "22",
+   "price": 1200,
    "priceOfficial": 0,
    "isMine": false
   }
