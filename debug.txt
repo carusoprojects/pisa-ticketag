@@ -1,4 +1,4 @@
-Aggiornato: 2026-10-27 21:34:34.131386
+Aggiornato: 2026-10-27 23:14:36.630351
 
 == Curva Nord ==
 
@@ -43,6 +43,18 @@ Aggiornato: 2026-10-27 21:34:34.131386
    "isMine": false
   },
   {
+   "uuid": "4f974357-ef22-42b6-bcb2-64f2dc9e4d42",
+   "section": "Gradinata",
+   "sectionUuid": "a3522fc6-edb8-4ad1-8084-3fd6a34d1cda",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "GR08",
+   "row": "12",
+   "seat": "8",
+   "price": 3500,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
    "uuid": "750de9e2-fc1a-4063-82b1-97ee5b30f263",
    "section": "Gradinata",
    "sectionUuid": "a3522fc6-edb8-4ad1-8084-3fd6a34d1cda",
@@ -65,35 +77,23 @@ Aggiornato: 2026-10-27 21:34:34.131386
    "price": 3500,
    "priceOfficial": 0,
    "isMine": false
-  },
-  {
-   "uuid": "f8851f7b-634f-4075-93e5-f0ef6f107bf2",
-   "section": "Curva Sud",
-   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
-   "reductionCodeUuid": "b311876e-14e5-440a-8662-e0b9e9c3bbf2",
-   "subSection": "SS02",
-   "row": "8",
-   "seat": "10",
-   "price": 2500,
-   "priceOfficial": 0,
-   "isMine": false
   }
  ],
  "bundles": [],
- "soldCount": 122,
+ "soldCount": 125,
  "lastSold": [
   {
-   "section": "Curva Nord",
-   "subSection": "NIC2",
-   "row": "1",
-   "seat": "7",
+   "section": "Curva Sud",
+   "subSection": "SS02",
+   "row": "8",
+   "seat": "10",
    "price": 2500
   },
   {
-   "section": "Curva Nord",
-   "subSection": "NIA",
-   "row": "6",
-   "seat": "8",
+   "section": "Curva Sud",
+   "subSection": "SS02",
+   "row": "8",
+   "seat": "2",
    "price": 2500
   }
  ]
