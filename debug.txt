@@ -1,7 +1,7 @@
-Aggiornato: 2026-10-27 21:25:06.868096
+Aggiornato: 2026-10-27 21:33:59.751848
 
 == Curva Nord ==
-
+Curva Nord n° NIB1 | INTERO | Fila 1, Posto 27 | 25,00 €*
 
 == JSON tickets ==
 {
@@ -43,18 +43,6 @@ Aggiornato: 2026-10-27 21:25:06.868096
    "isMine": false
   },
   {
-   "uuid": "4f974357-ef22-42b6-bcb2-64f2dc9e4d42",
-   "section": "Gradinata",
-   "sectionUuid": "a3522fc6-edb8-4ad1-8084-3fd6a34d1cda",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "GR08",
-   "row": "12",
-   "seat": "8",
-   "price": 3500,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
    "uuid": "750de9e2-fc1a-4063-82b1-97ee5b30f263",
    "section": "Gradinata",
    "sectionUuid": "a3522fc6-edb8-4ad1-8084-3fd6a34d1cda",
@@ -67,13 +55,13 @@ Aggiornato: 2026-10-27 21:25:06.868096
    "isMine": false
   },
   {
-   "uuid": "d2327f41-40d7-44a3-afad-86b308827c3e",
-   "section": "Curva Sud",
-   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "uuid": "4c28b6fd-816f-476c-ab90-bf0f4ac8ebb0",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
    "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "SS02",
-   "row": "8",
-   "seat": "2",
+   "subSection": "NIB1",
+   "row": "1",
+   "seat": "27",
    "price": 2500,
    "priceOfficial": 0,
    "isMine": false
