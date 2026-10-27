@@ -1,7 +1,7 @@
-Aggiornato: 2026-10-27 12:37:58.004456
+Aggiornato: 2026-10-27 12:46:50.547860
 
 == Curva Nord ==
-
+Curva Nord n° NIB2 | UNDER 14 | Fila 2, Posto 25 | 12,00 €*
 
 == JSON tickets ==
 {
@@ -27,6 +27,18 @@ Aggiornato: 2026-10-27 12:37:58.004456
    "row": "8",
    "seat": "31",
    "price": 5500,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "3e4fd0c9-9175-42be-982c-d6c609a1f4f3",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "0e4225d1-a702-41de-a32f-ae486df6440a",
+   "subSection": "NIB2",
+   "row": "2",
+   "seat": "25",
+   "price": 1200,
    "priceOfficial": 0,
    "isMine": false
   },
@@ -68,20 +80,20 @@ Aggiornato: 2026-10-27 12:37:58.004456
   }
  ],
  "bundles": [],
- "soldCount": 88,
+ "soldCount": 89,
  "lastSold": [
+  {
+   "section": "Curva Nord",
+   "subSection": "NID",
+   "row": "2",
+   "seat": "6",
+   "price": 2500
+  },
   {
    "section": "Curva Nord",
    "subSection": "NS09",
    "row": "3",
    "seat": "27",
-   "price": 2500
-  },
-  {
-   "section": "Curva Sud",
-   "subSection": "SS05",
-   "row": "9",
-   "seat": "26",
    "price": 2500
   }
  ]
