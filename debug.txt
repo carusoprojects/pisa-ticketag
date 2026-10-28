@@ -1,7 +1,7 @@
-Aggiornato: 2026-10-28 07:45:45.508879
+Aggiornato: 2026-10-28 07:46:20.168798
 
 == Curva Nord ==
-Curva Nord n° NS15 | INTERO | Fila 8, Posto 14 | 25,00 €*
+
 
 == JSON tickets ==
 {
@@ -27,18 +27,6 @@ Curva Nord n° NS15 | INTERO | Fila 8, Posto 14 | 25,00 €*
    "row": "8",
    "seat": "31",
    "price": 5500,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "d0ab6744-00a0-4212-9acf-99529af32f82",
-   "section": "Curva Nord",
-   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "NS15",
-   "row": "8",
-   "seat": "14",
-   "price": 2500,
    "priceOfficial": 0,
    "isMine": false
   },
