@@ -1,7 +1,7 @@
-Aggiornato: 2026-10-28 13:12:38.466569
+Aggiornato: 2026-10-28 13:13:13.489564
 
 == Curva Nord ==
-Curva Nord n° NS06 | INTERO | Fila 2, Posto 6 | 25,00 €*
+
 
 == JSON tickets ==
 {
@@ -75,18 +75,6 @@ Curva Nord n° NS06 | INTERO | Fila 2, Posto 6 | 25,00 €*
    "row": "9",
    "seat": "24",
    "price": 1200,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "660533c6-2a99-4b23-b486-75e52f2f1189",
-   "section": "Curva Nord",
-   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "NS06",
-   "row": "2",
-   "seat": "6",
-   "price": 2500,
    "priceOfficial": 0,
    "isMine": false
   }
