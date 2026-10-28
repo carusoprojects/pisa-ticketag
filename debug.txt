@@ -1,4 +1,4 @@
-Aggiornato: 2026-10-28 13:22:48.719527
+Aggiornato: 2026-10-28 22:10:58.923086
 
 == Curva Nord ==
 
@@ -43,13 +43,13 @@ Aggiornato: 2026-10-28 13:22:48.719527
    "isMine": false
   },
   {
-   "uuid": "7f790903-f7ae-4fd3-9af0-17ded4880120",
+   "uuid": "69ebd362-5a27-4056-82bd-c7c1dd2280bc",
    "section": "Curva Sud",
    "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
    "reductionCodeUuid": "0e4225d1-a702-41de-a32f-ae486df6440a",
    "subSection": "SS01",
    "row": "13",
-   "seat": "12",
+   "seat": "14",
    "price": 1200,
    "priceOfficial": 0,
    "isMine": false
@@ -68,21 +68,21 @@ Aggiornato: 2026-10-28 13:22:48.719527
   }
  ],
  "bundles": [],
- "soldCount": 163,
+ "soldCount": 169,
  "lastSold": [
   {
    "section": "Curva Nord",
    "subSection": "NIC2",
-   "row": "2",
-   "seat": "20",
-   "price": 1200
+   "row": "4",
+   "seat": "21",
+   "price": 2500
   },
   {
-   "section": "Curva Nord",
-   "subSection": "NS12",
+   "section": "Curva Sud",
+   "subSection": "SS01",
    "row": "13",
-   "seat": "31",
-   "price": 2500
+   "seat": "12",
+   "price": 1200
   }
  ]
 }
