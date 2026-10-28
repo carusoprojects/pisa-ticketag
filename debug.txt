@@ -1,7 +1,8 @@
-Aggiornato: 2026-10-28 09:42:53.612602
+Aggiornato: 2026-10-28 10:02:53.308416
 
 == Curva Nord ==
-
+Curva Nord n° NIA | INTERO | Fila 2, Posto 5 | 25,00 €*
+Curva Nord n° NIA | INTERO | Fila 2, Posto 3 | 25,00 €*
 
 == JSON tickets ==
 {
@@ -31,6 +32,18 @@ Aggiornato: 2026-10-28 09:42:53.612602
    "isMine": false
   },
   {
+   "uuid": "bb2846f3-880a-42d1-8a8c-c2b3d33827b8",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "NIA",
+   "row": "2",
+   "seat": "5",
+   "price": 2500,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
    "uuid": "f898c60a-ed5f-4c2e-905d-2cea48c0712f",
    "section": "Tribuna Inferiore",
    "sectionUuid": "fb7f5422-fb31-4773-841c-5d1332970519",
@@ -53,23 +66,35 @@ Aggiornato: 2026-10-28 09:42:53.612602
    "price": 3500,
    "priceOfficial": 0,
    "isMine": false
+  },
+  {
+   "uuid": "85d4c717-9e96-4043-b579-0bc9807ec7d8",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "NIA",
+   "row": "2",
+   "seat": "3",
+   "price": 2500,
+   "priceOfficial": 0,
+   "isMine": false
   }
  ],
  "bundles": [],
- "soldCount": 142,
+ "soldCount": 143,
  "lastSold": [
   {
    "section": "Curva Nord",
-   "subSection": "NS15",
+   "subSection": "NS16",
    "row": "10",
-   "seat": "8",
+   "seat": "19",
    "price": 2500
   },
   {
    "section": "Curva Nord",
    "subSection": "NS15",
-   "row": "5",
-   "seat": "20",
+   "row": "10",
+   "seat": "8",
    "price": 2500
   }
  ]
