@@ -1,7 +1,7 @@
-Aggiornato: 2026-10-28 05:00:31.450882
+Aggiornato: 2026-10-28 06:07:30.954539
 
 == Curva Nord ==
-
+Curva Nord n° NS09B | INTERO | Fila 12, Posto 5 | 25,00 €*
 
 == JSON tickets ==
 {
@@ -43,18 +43,6 @@ Aggiornato: 2026-10-28 05:00:31.450882
    "isMine": false
   },
   {
-   "uuid": "4f974357-ef22-42b6-bcb2-64f2dc9e4d42",
-   "section": "Gradinata",
-   "sectionUuid": "a3522fc6-edb8-4ad1-8084-3fd6a34d1cda",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "GR08",
-   "row": "12",
-   "seat": "8",
-   "price": 3500,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
    "uuid": "750de9e2-fc1a-4063-82b1-97ee5b30f263",
    "section": "Gradinata",
    "sectionUuid": "a3522fc6-edb8-4ad1-8084-3fd6a34d1cda",
@@ -63,6 +51,18 @@ Aggiornato: 2026-10-28 05:00:31.450882
    "row": "13",
    "seat": "8",
    "price": 3500,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "d4530a53-2b09-4bed-83b3-07c245e26ec9",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "NS09B",
+   "row": "12",
+   "seat": "5",
+   "price": 2500,
    "priceOfficial": 0,
    "isMine": false
   },
@@ -80,20 +80,20 @@ Aggiornato: 2026-10-28 05:00:31.450882
   }
  ],
  "bundles": [],
- "soldCount": 125,
+ "soldCount": 126,
  "lastSold": [
   {
-   "section": "Curva Sud",
-   "subSection": "SS02",
-   "row": "8",
-   "seat": "10",
-   "price": 2500
+   "section": "Gradinata",
+   "subSection": "GR08",
+   "row": "12",
+   "seat": "8",
+   "price": 3500
   },
   {
    "section": "Curva Sud",
    "subSection": "SS02",
    "row": "8",
-   "seat": "2",
+   "seat": "10",
    "price": 2500
   }
  ]
