@@ -1,4 +1,4 @@
-Aggiornato: 2026-10-28 10:07:56.933832
+Aggiornato: 2026-10-28 12:07:57.387410
 
 == Curva Nord ==
 
@@ -44,20 +44,20 @@ Aggiornato: 2026-10-28 10:07:56.933832
   }
  ],
  "bundles": [],
- "soldCount": 143,
+ "soldCount": 152,
  "lastSold": [
   {
    "section": "Curva Nord",
-   "subSection": "NS16",
-   "row": "10",
-   "seat": "19",
+   "subSection": "NS06",
+   "row": "13",
+   "seat": "27",
    "price": 2500
   },
   {
    "section": "Curva Nord",
-   "subSection": "NS15",
-   "row": "10",
-   "seat": "8",
+   "subSection": "NIB2",
+   "row": "1",
+   "seat": "31",
    "price": 2500
   }
  ]
