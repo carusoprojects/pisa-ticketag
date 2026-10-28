@@ -1,23 +1,11 @@
-Aggiornato: 2026-10-28 13:22:13.781552
+Aggiornato: 2026-10-28 13:22:48.719527
 
 == Curva Nord ==
-Curva Nord n° NS09 | INTERO | Fila 5, Posto 8 | 25,00 €*
+
 
 == JSON tickets ==
 {
  "tickets": [
-  {
-   "uuid": "f721e8d0-07bb-4dcf-b82c-66dcd5fa2566",
-   "section": "Curva Nord",
-   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "NS09",
-   "row": "5",
-   "seat": "8",
-   "price": 2500,
-   "priceOfficial": 0,
-   "isMine": false
-  },
   {
    "uuid": "02cb281d-3da0-494e-9bcf-e78d26720aba",
    "section": "Tribuna Inferiore",
@@ -39,18 +27,6 @@ Curva Nord n° NS09 | INTERO | Fila 5, Posto 8 | 25,00 €*
    "row": "8",
    "seat": "31",
    "price": 5500,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "154005c3-2139-43b9-8077-67c0c3702d49",
-   "section": "Curva Sud",
-   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "SS01",
-   "row": "11",
-   "seat": "12",
-   "price": 2500,
    "priceOfficial": 0,
    "isMine": false
   },
