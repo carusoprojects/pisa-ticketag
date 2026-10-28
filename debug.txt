@@ -1,7 +1,7 @@
-Aggiornato: 2026-10-28 06:21:57.610802
+Aggiornato: 2026-10-28 06:22:32.788207
 
 == Curva Nord ==
-Curva Nord n° NS12 | INTERO | Fila 9, Posto 9 | 25,00 €*
+
 
 == JSON tickets ==
 {
@@ -63,18 +63,6 @@ Curva Nord n° NS12 | INTERO | Fila 9, Posto 9 | 25,00 €*
    "row": "13",
    "seat": "8",
    "price": 3500,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "ce25ea5b-211c-47ea-9124-d82273e31570",
-   "section": "Curva Nord",
-   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "NS12",
-   "row": "9",
-   "seat": "9",
-   "price": 2500,
    "priceOfficial": 0,
    "isMine": false
   },
