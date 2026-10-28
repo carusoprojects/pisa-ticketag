@@ -1,11 +1,23 @@
-Aggiornato: 2026-10-28 09:11:14.436023
+Aggiornato: 2026-10-28 09:42:18.786334
 
 == Curva Nord ==
-
+Curva Nord n° NS16 | INTERO | Fila 10, Posto 19 | 25,00 €*
 
 == JSON tickets ==
 {
  "tickets": [
+  {
+   "uuid": "34529629-0657-46da-9f42-d90067caa25b",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "NS16",
+   "row": "10",
+   "seat": "19",
+   "price": 2500,
+   "priceOfficial": 0,
+   "isMine": false
+  },
   {
    "uuid": "02cb281d-3da0-494e-9bcf-e78d26720aba",
    "section": "Tribuna Inferiore",
@@ -56,20 +68,20 @@ Aggiornato: 2026-10-28 09:11:14.436023
   }
  ],
  "bundles": [],
- "soldCount": 140,
+ "soldCount": 142,
  "lastSold": [
   {
    "section": "Curva Nord",
-   "subSection": "NS09",
-   "row": "4",
-   "seat": "28",
+   "subSection": "NS15",
+   "row": "10",
+   "seat": "8",
    "price": 2500
   },
   {
    "section": "Curva Nord",
-   "subSection": "NS17",
-   "row": "10",
-   "seat": "10",
+   "subSection": "NS15",
+   "row": "5",
+   "seat": "20",
    "price": 2500
   }
  ]
