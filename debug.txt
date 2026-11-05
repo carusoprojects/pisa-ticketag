@@ -1,4 +1,4 @@
-Aggiornato: 2026-11-05 13:59:16.607026
+Aggiornato: 2026-11-05 14:28:29.345398
 
 == Curva Nord ==
 
@@ -7,82 +7,274 @@ Aggiornato: 2026-11-05 13:59:16.607026
 {
  "tickets": [
   {
-   "uuid": "02cb281d-3da0-494e-9bcf-e78d26720aba",
-   "section": "Tribuna Inferiore",
-   "sectionUuid": "fb7f5422-fb31-4773-841c-5d1332970519",
-   "reductionCodeUuid": "c39b7835-1b18-49ec-8e6d-f827b8ffda20",
-   "subSection": "TI04",
-   "row": "8",
-   "seat": "29",
-   "price": 5500,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "ad7b9834-e716-4039-9e71-144e97b4a3f9",
-   "section": "Tribuna Inferiore",
-   "sectionUuid": "fb7f5422-fb31-4773-841c-5d1332970519",
-   "reductionCodeUuid": "c39b7835-1b18-49ec-8e6d-f827b8ffda20",
-   "subSection": "TI04",
-   "row": "8",
-   "seat": "31",
-   "price": 5500,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "f898c60a-ed5f-4c2e-905d-2cea48c0712f",
-   "section": "Tribuna Inferiore",
-   "sectionUuid": "fb7f5422-fb31-4773-841c-5d1332970519",
-   "reductionCodeUuid": "c39b7835-1b18-49ec-8e6d-f827b8ffda20",
-   "subSection": "TI03",
-   "row": "8",
-   "seat": "20",
-   "price": 5500,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "69ebd362-5a27-4056-82bd-c7c1dd2280bc",
+   "uuid": "51bd38ce-0e65-457d-bbac-855fbc965076",
    "section": "Curva Sud",
    "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
-   "reductionCodeUuid": "0e4225d1-a702-41de-a32f-ae486df6440a",
-   "subSection": "SS01",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS02",
+   "row": "7",
+   "seat": "7",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "b2ef4dfb-b0ca-469f-bca9-11fc1ebaf754",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS02",
+   "row": "14",
+   "seat": "2",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "40f55daf-cc9e-41bb-bcbe-e7454d2fef0e",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS02",
+   "row": "12",
+   "seat": "6",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "8b5d7fea-4387-4635-ab60-3754dfbcd4a2",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "b311876e-14e5-440a-8662-e0b9e9c3bbf2",
+   "subSection": "SS02",
+   "row": "8",
+   "seat": "10",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "4ff76421-e409-48ac-9df7-6d3ae2ab481a",
+   "section": "Gradinata",
+   "sectionUuid": "a3522fc6-edb8-4ad1-8084-3fd6a34d1cda",
+   "reductionCodeUuid": "b311876e-14e5-440a-8662-e0b9e9c3bbf2",
+   "subSection": "GR08",
    "row": "13",
-   "seat": "14",
-   "price": 1200,
+   "seat": "4",
+   "price": 3000,
    "priceOfficial": 0,
    "isMine": false
   },
   {
-   "uuid": "f95311ff-82e4-4fb2-ac7c-3dbf2d55fca8",
+   "uuid": "9d378da1-c323-4bb7-93d7-2213eaef2498",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS04",
+   "row": "1",
+   "seat": "17",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "ff105bba-3ff7-47e0-b6f2-09d726724675",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS04",
+   "row": "10",
+   "seat": "28",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "73dc922a-59ce-4a0a-bd45-303e9aa1edd2",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS04",
+   "row": "13",
+   "seat": "35",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "9c721ed1-0a2a-418c-832d-99f131abf20e",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS04",
+   "row": "8",
+   "seat": "12",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "d7919633-b514-48d4-89b2-74e5ccd0a83e",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS02",
+   "row": "13",
+   "seat": "12",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "0751ca7d-313d-4ae9-8a19-7ee28eb59c73",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS04",
+   "row": "9",
+   "seat": "23",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "57d0bac2-4da7-4233-8138-e6ee0861b43a",
    "section": "Curva Sud",
    "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
    "reductionCodeUuid": "0e4225d1-a702-41de-a32f-ae486df6440a",
-   "subSection": "SS05",
-   "row": "9",
-   "seat": "24",
-   "price": 1200,
+   "subSection": "SS02",
+   "row": "8",
+   "seat": "12",
+   "price": 1000,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "0705cdc1-cf0c-4431-99b2-aaeffa182ca6",
+   "section": "Gradinata",
+   "sectionUuid": "a3522fc6-edb8-4ad1-8084-3fd6a34d1cda",
+   "reductionCodeUuid": "b311876e-14e5-440a-8662-e0b9e9c3bbf2",
+   "subSection": "GR08",
+   "row": "13",
+   "seat": "8",
+   "price": 3000,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "b4aaa7b1-46bc-4d28-86ea-be774e7c08f3",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS01",
+   "row": "14",
+   "seat": "14",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "8645c70a-571e-4e64-8c19-58a7cf625a7e",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS04",
+   "row": "14",
+   "seat": "12",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "af36794c-6611-4ce4-85d9-afc0047dc29f",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS03",
+   "row": "13",
+   "seat": "2",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "9242a9a6-aef7-4674-967d-6a4631660afc",
+   "section": "Gradinata",
+   "sectionUuid": "a3522fc6-edb8-4ad1-8084-3fd6a34d1cda",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "GR08",
+   "row": "14",
+   "seat": "4",
+   "price": 3000,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "f1e38091-1849-48b2-9ac3-36b4908cc5e0",
+   "section": "Gradinata",
+   "sectionUuid": "a3522fc6-edb8-4ad1-8084-3fd6a34d1cda",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "GR09",
+   "row": "12",
+   "seat": "7",
+   "price": 3000,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "c21ff4c7-223f-4efa-9947-eb974d7e2b5a",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS02",
+   "row": "8",
+   "seat": "8",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "0faeb462-873f-43b4-8550-0f6b8702ca10",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS02",
+   "row": "11",
+   "seat": "18",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "f0fca108-cfc8-4c1a-98ed-ebc27523235f",
+   "section": "Gradinata",
+   "sectionUuid": "a3522fc6-edb8-4ad1-8084-3fd6a34d1cda",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "GR07",
+   "row": "13",
+   "seat": "32",
+   "price": 3000,
    "priceOfficial": 0,
    "isMine": false
   }
  ],
  "bundles": [],
- "soldCount": 169,
+ "soldCount": 92,
  "lastSold": [
   {
    "section": "Curva Nord",
-   "subSection": "NIC2",
-   "row": "4",
-   "seat": "21",
-   "price": 2500
+   "subSection": "NID1",
+   "row": "1",
+   "seat": "12",
+   "price": 1900
   },
   {
    "section": "Curva Sud",
-   "subSection": "SS01",
-   "row": "13",
-   "seat": "12",
-   "price": 1200
+   "subSection": "SS02",
+   "row": "11",
+   "seat": "18",
+   "price": 1900
   }
  ]
 }
