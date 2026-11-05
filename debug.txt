@@ -1,23 +1,11 @@
-Aggiornato: 2026-11-05 14:38:31.309755
+Aggiornato: 2026-11-05 14:41:51.161235
 
 == Curva Nord ==
-
+Curva Nord n° NS06 | INTERO | Fila 12, Posto 35 | 19,00 €*
 
 == JSON tickets ==
 {
  "tickets": [
-  {
-   "uuid": "51bd38ce-0e65-457d-bbac-855fbc965076",
-   "section": "Curva Sud",
-   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "SS02",
-   "row": "7",
-   "seat": "7",
-   "price": 1900,
-   "priceOfficial": 0,
-   "isMine": false
-  },
   {
    "uuid": "b2ef4dfb-b0ca-469f-bca9-11fc1ebaf754",
    "section": "Curva Sud",
@@ -74,6 +62,18 @@ Aggiornato: 2026-11-05 14:38:31.309755
    "subSection": "SS04",
    "row": "1",
    "seat": "17",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "06887a1b-126e-4b18-918a-9686bf1daa8b",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "NS06",
+   "row": "12",
+   "seat": "35",
    "price": 1900,
    "priceOfficial": 0,
    "isMine": false
