@@ -1,11 +1,23 @@
-Aggiornato: 2026-11-05 19:22:17.977371
+Aggiornato: 2026-11-05 20:07:02.257082
 
 == Curva Nord ==
-
+Curva Nord n° NS06 | INTERO | Fila 2, Posto 30 | 19,00 €*
 
 == JSON tickets ==
 {
  "tickets": [
+  {
+   "uuid": "858b55c0-ff09-4a50-93b6-d66f0cd3be66",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "NS06",
+   "row": "2",
+   "seat": "30",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
   {
    "uuid": "cef72556-4a6d-4e9a-8271-59c7df9ec2c0",
    "section": "Gradinata",
@@ -151,6 +163,18 @@ Aggiornato: 2026-11-05 19:22:17.977371
    "isMine": false
   },
   {
+   "uuid": "22b09a77-0fca-4470-aa4f-587edb5c971c",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "NS06",
+   "row": "5",
+   "seat": "4",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
    "uuid": "0705cdc1-cf0c-4431-99b2-aaeffa182ca6",
    "section": "Gradinata",
    "sectionUuid": "a3522fc6-edb8-4ad1-8084-3fd6a34d1cda",
@@ -159,6 +183,18 @@ Aggiornato: 2026-11-05 19:22:17.977371
    "row": "13",
    "seat": "8",
    "price": 3000,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "f24833b0-8529-4b1a-ace6-a767ced07a71",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS05",
+   "row": "9",
+   "seat": "26",
+   "price": 1900,
    "priceOfficial": 0,
    "isMine": false
   },
@@ -284,20 +320,20 @@ Aggiornato: 2026-11-05 19:22:17.977371
   }
  ],
  "bundles": [],
- "soldCount": 112,
+ "soldCount": 114,
  "lastSold": [
   {
    "section": "Curva Nord",
-   "subSection": "NS04B",
-   "row": "13",
-   "seat": "19",
+   "subSection": "NS15",
+   "row": "5",
+   "seat": "13",
    "price": 1900
   },
   {
    "section": "Curva Nord",
-   "subSection": "NS06",
-   "row": "12",
-   "seat": "31",
+   "subSection": "NID1",
+   "row": "2",
+   "seat": "24",
    "price": 1900
   }
  ]
