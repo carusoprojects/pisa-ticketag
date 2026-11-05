@@ -1,7 +1,7 @@
-Aggiornato: 2026-11-05 18:54:26.734660
+Aggiornato: 2026-11-05 19:07:09.956027
 
 == Curva Nord ==
-
+Curva Nord n° NS04B | INTERO | Fila 13, Posto 19 | 19,00 €*
 
 == JSON tickets ==
 {
@@ -63,6 +63,18 @@ Aggiornato: 2026-11-05 18:54:26.734660
    "row": "13",
    "seat": "4",
    "price": 3000,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "6731f6d7-bcb8-45a3-8891-b14ce3d578c8",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "NS04B",
+   "row": "13",
+   "seat": "19",
+   "price": 1900,
    "priceOfficial": 0,
    "isMine": false
   },
@@ -284,20 +296,20 @@ Aggiornato: 2026-11-05 18:54:26.734660
   }
  ],
  "bundles": [],
- "soldCount": 108,
+ "soldCount": 110,
  "lastSold": [
   {
    "section": "Curva Nord",
-   "subSection": "NS16",
-   "row": "8",
-   "seat": "5",
-   "price": 1000
+   "subSection": "NS12",
+   "row": "3",
+   "seat": "36",
+   "price": 1900
   },
   {
    "section": "Curva Nord",
-   "subSection": "NS09",
+   "subSection": "NS04",
    "row": "7",
-   "seat": "8",
+   "seat": "1",
    "price": 1900
   }
  ]
