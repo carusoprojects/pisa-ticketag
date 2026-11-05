@@ -1,7 +1,7 @@
-Aggiornato: 2026-11-05 16:36:33.594439
+Aggiornato: 2026-11-05 16:37:41.419937
 
 == Curva Nord ==
-Curva Nord n° NS04 | INTERO | Fila 13, Posto 5 | 19,00 €*
+
 
 == JSON tickets ==
 {
@@ -51,18 +51,6 @@ Curva Nord n° NS04 | INTERO | Fila 13, Posto 5 | 19,00 €*
    "row": "13",
    "seat": "4",
    "price": 3000,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "4256cb91-4502-4a80-8b59-5483fb8feb0b",
-   "section": "Curva Nord",
-   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "NS04",
-   "row": "13",
-   "seat": "5",
-   "price": 1900,
    "priceOfficial": 0,
    "isMine": false
   },
