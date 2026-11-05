@@ -1,7 +1,7 @@
-Aggiornato: 2026-11-05 17:22:35.158042
+Aggiornato: 2026-11-05 17:23:09.627154
 
 == Curva Nord ==
-Curva Nord n° NIA | INTERO | Fila 4, Posto 14 | 19,00 €*
+
 
 == JSON tickets ==
 {
@@ -74,18 +74,6 @@ Curva Nord n° NIA | INTERO | Fila 4, Posto 14 | 19,00 €*
    "subSection": "SS04",
    "row": "13",
    "seat": "31",
-   "price": 1900,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "fdf2fb74-be1b-466a-b40d-e15336684b3a",
-   "section": "Curva Nord",
-   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "NIA",
-   "row": "4",
-   "seat": "14",
    "price": 1900,
    "priceOfficial": 0,
    "isMine": false
