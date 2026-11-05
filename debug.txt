@@ -1,7 +1,7 @@
-Aggiornato: 2026-11-05 18:44:25.115929
+Aggiornato: 2026-11-05 18:47:45.894072
 
 == Curva Nord ==
-
+Curva Nord n° NS16 | UNDER 14 | Fila 8, Posto 5 | 10,00 €*
 
 == JSON tickets ==
 {
@@ -87,6 +87,18 @@ Aggiornato: 2026-11-05 18:44:25.115929
    "row": "10",
    "seat": "28",
    "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "6b1764cc-7d5a-4074-b38b-033e6fa061ca",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "0e4225d1-a702-41de-a32f-ae486df6440a",
+   "subSection": "NS16",
+   "row": "8",
+   "seat": "5",
+   "price": 1000,
    "priceOfficial": 0,
    "isMine": false
   },
@@ -272,20 +284,20 @@ Aggiornato: 2026-11-05 18:44:25.115929
   }
  ],
  "bundles": [],
- "soldCount": 104,
+ "soldCount": 107,
  "lastSold": [
   {
-   "section": "Curva Sud",
-   "subSection": "SS04",
-   "row": "13",
-   "seat": "35",
+   "section": "Curva Nord",
+   "subSection": "NS09",
+   "row": "7",
+   "seat": "8",
    "price": 1900
   },
   {
-   "section": "Curva Sud",
-   "subSection": "SS04",
-   "row": "13",
-   "seat": "31",
+   "section": "Curva Nord",
+   "subSection": "NS12",
+   "row": "3",
+   "seat": "39",
    "price": 1900
   }
  ]
