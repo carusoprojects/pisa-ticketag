@@ -1,7 +1,7 @@
-Aggiornato: 2026-11-06 16:25:32.035443
+Aggiornato: 2026-11-06 16:49:53.603688
 
 == Curva Nord ==
-Curva Nord n° NS04 | UNDER 18 | Fila 10, Posto 6 | 19,00 €*
+
 
 == JSON tickets ==
 {
@@ -86,18 +86,6 @@ Curva Nord n° NS04 | UNDER 18 | Fila 10, Posto 6 | 19,00 €*
    "subSection": "SS04",
    "row": "11",
    "seat": "37",
-   "price": 1900,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "5625c218-bf54-42d6-810a-85f1a8a95644",
-   "section": "Curva Nord",
-   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
-   "reductionCodeUuid": "b311876e-14e5-440a-8662-e0b9e9c3bbf2",
-   "subSection": "NS04",
-   "row": "10",
-   "seat": "6",
    "price": 1900,
    "priceOfficial": 0,
    "isMine": false
