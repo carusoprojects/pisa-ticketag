@@ -1,7 +1,7 @@
-Aggiornato: 2026-11-06 15:31:53.601737
+Aggiornato: 2026-11-06 15:46:16.465038
 
 == Curva Nord ==
-Curva Nord n° NID1 | INTERO | Fila 2, Posto 16 | 19,00 €*
+
 
 == JSON tickets ==
 {
@@ -75,18 +75,6 @@ Curva Nord n° NID1 | INTERO | Fila 2, Posto 16 | 19,00 €*
    "row": "7",
    "seat": "37",
    "price": 1500,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "7f2e4b38-1127-477c-a543-68ec2ed4e928",
-   "section": "Curva Nord",
-   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "NID1",
-   "row": "2",
-   "seat": "16",
-   "price": 1900,
    "priceOfficial": 0,
    "isMine": false
   },
@@ -231,6 +219,18 @@ Curva Nord n° NID1 | INTERO | Fila 2, Posto 16 | 19,00 €*
    "row": "12",
    "seat": "35",
    "price": 3000,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "b427a30c-1768-4097-9a05-fb7b75ef17f4",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "NS09",
+   "row": "11",
+   "seat": "7",
+   "price": 1900,
    "priceOfficial": 0,
    "isMine": false
   },
