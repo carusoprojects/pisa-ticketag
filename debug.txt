@@ -1,4 +1,4 @@
-Aggiornato: 2026-11-05 23:15:59.453552
+Aggiornato: 2026-11-06 05:05:51.847770
 
 == Curva Nord ==
 Curva Nord n° NID2 | UNDER 14 | Fila 3, Posto 12 | 10,00 €*
@@ -319,33 +319,33 @@ Curva Nord n° NID2 | UNDER 14 | Fila 3, Posto 12 | 10,00 €*
    "isMine": false
   },
   {
-   "uuid": "815dfed5-c909-4d44-8d37-6d0d522fca61",
+   "uuid": "ea9c2cff-e45e-4b42-a1ab-a75cb8c8f5d8",
    "section": "Curva Nord",
    "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
    "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "NIC2",
-   "row": "4",
-   "seat": "5",
+   "subSection": "NS06",
+   "row": "3",
+   "seat": "6",
    "price": 1900,
    "priceOfficial": 0,
    "isMine": false
   }
  ],
  "bundles": [],
- "soldCount": 128,
+ "soldCount": 130,
  "lastSold": [
   {
    "section": "Curva Nord",
-   "subSection": "NS09",
-   "row": "12",
-   "seat": "16",
+   "subSection": "NS04",
+   "row": "11",
+   "seat": "2",
    "price": 1900
   },
   {
    "section": "Curva Nord",
-   "subSection": "NS06",
-   "row": "9",
-   "seat": "36",
+   "subSection": "NIC2",
+   "row": "4",
+   "seat": "5",
    "price": 1900
   }
  ]
