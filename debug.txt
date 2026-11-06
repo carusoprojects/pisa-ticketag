@@ -1,12 +1,23 @@
-Aggiornato: 2026-11-06 14:24:11.488316
+Aggiornato: 2026-11-06 14:28:38.011499
 
 == Curva Nord ==
 Curva Nord n° NIA | INTERO | Fila 6, Posto 8 | 19,00 €*
-Curva Nord n° NS09 | INTERO | Fila 11, Posto 8 | 19,00 €*
 
 == JSON tickets ==
 {
  "tickets": [
+  {
+   "uuid": "d4f41b55-19da-4d0b-a288-e35bddcbb00d",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS02B",
+   "row": "14",
+   "seat": "11",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
   {
    "uuid": "2027b7ef-5572-40a3-a17d-e718454fe296",
    "section": "Gradinata",
@@ -352,6 +363,18 @@ Curva Nord n° NS09 | INTERO | Fila 11, Posto 8 | 19,00 €*
    "row": "8",
    "seat": "8",
    "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "4379b982-69dd-404a-b38e-c37bf9006e2f",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "0e4225d1-a702-41de-a32f-ae486df6440a",
+   "subSection": "SS02B",
+   "row": "14",
+   "seat": "9",
+   "price": 1000,
    "priceOfficial": 0,
    "isMine": false
   },
