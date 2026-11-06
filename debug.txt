@@ -1,7 +1,8 @@
-Aggiornato: 2026-11-06 07:21:50.681999
+Aggiornato: 2026-11-06 07:22:25.308585
 
 == Curva Nord ==
-
+Curva Nord n° NS15 | INTERO | Fila 2, Posto 20 | 19,00 €*
+Curva Nord n° NS04 | INTERO | Fila 13, Posto 2 | 19,00 €*
 
 == JSON tickets ==
 {
@@ -43,6 +44,18 @@ Aggiornato: 2026-11-06 07:21:50.681999
    "isMine": false
   },
   {
+   "uuid": "b43ab3c7-58af-4af9-868f-8d1e62a42146",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "NS15",
+   "row": "2",
+   "seat": "20",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
    "uuid": "4ff76421-e409-48ac-9df7-6d3ae2ab481a",
    "section": "Gradinata",
    "sectionUuid": "a3522fc6-edb8-4ad1-8084-3fd6a34d1cda",
@@ -51,6 +64,18 @@ Aggiornato: 2026-11-06 07:21:50.681999
    "row": "13",
    "seat": "4",
    "price": 3000,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "0224cd36-cfcf-48a6-939d-5723c9915a22",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "NS04",
+   "row": "13",
+   "seat": "2",
+   "price": 1900,
    "priceOfficial": 0,
    "isMine": false
   },
@@ -350,18 +375,6 @@ Aggiornato: 2026-11-06 07:21:50.681999
    "subSection": "NS12",
    "row": "5",
    "seat": "20",
-   "price": 1900,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "91c98fd7-d296-4c3d-9e8b-83b77455e840",
-   "section": "Curva Nord",
-   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "NS15",
-   "row": "2",
-   "seat": "22",
    "price": 1900,
    "priceOfficial": 0,
    "isMine": false
