@@ -1,7 +1,6 @@
-Aggiornato: 2026-11-06 19:08:01.553977
+Aggiornato: 2026-11-06 19:10:48.547673
 
 == Curva Nord ==
-Curva Nord n° NS15 | INTERO | Fila 5, Posto 32 | 19,00 €*
 Curva Nord n° NS04 | INTERO | Fila 1, Posto 10 | 19,00 €*
 Curva Nord n° NS12 | INTERO | Fila 14, Posto 16 | 19,00 €*
 Curva Nord n° NS06 | UNDER 18 | Fila 13, Posto 21 | 19,00 €*
@@ -17,18 +16,6 @@ Curva Nord n° NS06 | UNDER 18 | Fila 13, Posto 21 | 19,00 €*
    "subSection": "SS02B",
    "row": "14",
    "seat": "11",
-   "price": 1900,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "efbaa1af-c056-4737-945a-a5da39c79277",
-   "section": "Curva Nord",
-   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "NS15",
-   "row": "5",
-   "seat": "32",
    "price": 1900,
    "priceOfficial": 0,
    "isMine": false
