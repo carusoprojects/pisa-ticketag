@@ -1,8 +1,8 @@
-Aggiornato: 2026-11-06 14:15:52.152535
+Aggiornato: 2026-11-06 14:21:57.819658
 
 == Curva Nord ==
+Curva Nord n° NS09 | INTERO | Fila 5, Posto 28 | 19,00 €*
 Curva Nord n° NIA | INTERO | Fila 6, Posto 8 | 19,00 €*
-Curva Nord n° NS09 | INTERO | Fila 11, Posto 8 | 19,00 €*
 
 == JSON tickets ==
 {
@@ -27,6 +27,18 @@ Curva Nord n° NS09 | INTERO | Fila 11, Posto 8 | 19,00 €*
    "subSection": "SS02",
    "row": "8",
    "seat": "10",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "229f9ae6-3e91-484e-8af4-c36aadcc3bf2",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "NS09",
+   "row": "5",
+   "seat": "28",
    "price": 1900,
    "priceOfficial": 0,
    "isMine": false
@@ -183,6 +195,18 @@ Curva Nord n° NS09 | INTERO | Fila 11, Posto 8 | 19,00 €*
    "subSection": "SS04",
    "row": "9",
    "seat": "23",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "fde5223a-cd79-4f90-afef-dc534ac8b052",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "NS16",
+   "row": "7",
+   "seat": "12",
    "price": 1900,
    "priceOfficial": 0,
    "isMine": false
@@ -457,20 +481,20 @@ Curva Nord n° NS09 | INTERO | Fila 11, Posto 8 | 19,00 €*
    "reductionCodeUuid": "0e4225d1-a702-41de-a32f-ae486df6440a"
   }
  ],
- "soldCount": 170,
+ "soldCount": 171,
  "lastSold": [
+  {
+   "section": "Curva Nord",
+   "subSection": "NIB2",
+   "row": "4",
+   "seat": "21",
+   "price": 1900
+  },
   {
    "section": "Curva Nord",
    "subSection": "NS16",
    "row": "10",
    "seat": "18",
-   "price": 1900
-  },
-  {
-   "section": "Curva Nord",
-   "subSection": "NS04",
-   "row": "2",
-   "seat": "6",
    "price": 1900
   }
  ]
