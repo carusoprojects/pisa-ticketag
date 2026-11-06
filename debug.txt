@@ -1,8 +1,9 @@
-Aggiornato: 2026-11-06 05:15:19.963451
+Aggiornato: 2026-11-06 05:23:06.359769
 
 == Curva Nord ==
 Curva Nord n° NID2 | UNDER 14 | Fila 3, Posto 12 | 10,00 €*
 Curva Nord n° NS17 | INTERO | Fila 7, Posto 1 | 19,00 €*
+Curva Nord n° NID1 | INTERO | Fila 4, Posto 24 | 19,00 €*
 
 == JSON tickets ==
 {
@@ -87,6 +88,18 @@ Curva Nord n° NS17 | INTERO | Fila 7, Posto 1 | 19,00 €*
    "subSection": "SS05",
    "row": "13",
    "seat": "18",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "f1164717-9bd0-48b9-9465-e107902c24f1",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "NID1",
+   "row": "4",
+   "seat": "24",
    "price": 1900,
    "priceOfficial": 0,
    "isMine": false
