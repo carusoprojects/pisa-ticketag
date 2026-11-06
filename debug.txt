@@ -1,7 +1,7 @@
-Aggiornato: 2026-11-06 15:01:55.101448
+Aggiornato: 2026-11-06 15:06:54.740039
 
 == Curva Nord ==
-
+Curva Nord n° NIA | INTERO | Fila 6, Posto 8 | 19,00 €*
 
 == JSON tickets ==
 {
@@ -111,6 +111,18 @@ Aggiornato: 2026-11-06 15:01:55.101448
    "row": "10",
    "seat": "4",
    "price": 1000,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "611a66d8-f28c-47ce-b70d-4f6965331f64",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "NIA",
+   "row": "6",
+   "seat": "8",
+   "price": 1900,
    "priceOfficial": 0,
    "isMine": false
   },
@@ -456,20 +468,20 @@ Aggiornato: 2026-11-06 15:01:55.101448
    "reductionCodeUuid": "0e4225d1-a702-41de-a32f-ae486df6440a"
   }
  ],
- "soldCount": 174,
+ "soldCount": 175,
  "lastSold": [
+  {
+   "section": "Curva Nord",
+   "subSection": "NS09",
+   "row": "11",
+   "seat": "8",
+   "price": 1900
+  },
   {
    "section": "Curva Nord",
    "subSection": "NIC",
    "row": "4",
    "seat": "10",
-   "price": 1900
-  },
-  {
-   "section": "Curva Nord",
-   "subSection": "NS16",
-   "row": "7",
-   "seat": "12",
    "price": 1900
   }
  ]
