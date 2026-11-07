@@ -1,6 +1,7 @@
-Aggiornato: 2026-11-07 08:38:33.089458
+Aggiornato: 2026-11-07 08:41:55.439737
 
 == Curva Nord ==
+Curva Nord n° NS01 | INTERO | Fila 6, Posto 3 | 19,00 €*
 Curva Nord n° NIB2 | UNDER 14 | Fila 1, Posto 3 | 10,00 €*
 Curva Nord n° NID | INTERO | Fila 3, Posto 6 | 19,00 €*
 
@@ -15,6 +16,18 @@ Curva Nord n° NID | INTERO | Fila 3, Posto 6 | 19,00 €*
    "subSection": "SS04",
    "row": "12",
    "seat": "25",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "246aefdd-b36b-4682-81b8-097f3cb85079",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "NS01",
+   "row": "6",
+   "seat": "3",
    "price": 1900,
    "priceOfficial": 0,
    "isMine": false
@@ -40,6 +53,18 @@ Curva Nord n° NID | INTERO | Fila 3, Posto 6 | 19,00 €*
    "row": "13",
    "seat": "4",
    "price": 3000,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "b39fa56b-6b34-48a0-a98a-995e4670845e",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS05",
+   "row": "13",
+   "seat": "18",
+   "price": 1900,
    "priceOfficial": 0,
    "isMine": false
   },
@@ -195,18 +220,6 @@ Curva Nord n° NID | INTERO | Fila 3, Posto 6 | 19,00 €*
    "subSection": "SS04",
    "row": "10",
    "seat": "28",
-   "price": 1900,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "ddd3100d-7a26-4cfa-8f1f-729c24312be1",
-   "section": "Curva Nord",
-   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "NS15",
-   "row": "2",
-   "seat": "34",
    "price": 1900,
    "priceOfficial": 0,
    "isMine": false
@@ -793,20 +806,20 @@ Curva Nord n° NID | INTERO | Fila 3, Posto 6 | 19,00 €*
    "reductionCodeUuid": "0e4225d1-a702-41de-a32f-ae486df6440a"
   }
  ],
- "soldCount": 233,
+ "soldCount": 234,
  "lastSold": [
+  {
+   "section": "Curva Nord",
+   "subSection": "NS06",
+   "row": "7",
+   "seat": "12",
+   "price": 1000
+  },
   {
    "section": "Curva Nord",
    "subSection": "NS15B",
    "row": "13",
    "seat": "9",
-   "price": 1900
-  },
-  {
-   "section": "Curva Nord",
-   "subSection": "NS17",
-   "row": "13",
-   "seat": "20",
    "price": 1900
   }
  ]
