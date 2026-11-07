@@ -1,35 +1,12 @@
-Aggiornato: 2026-11-07 09:06:25.641615
+Aggiornato: 2026-11-07 09:19:43.770573
 
 == Curva Nord ==
-
+Curva Nord n° NS04 | UNDER 14 | Fila 1, Posto 20 | 10,00 €*
+Curva Nord n° NS15 | UNDER 14 | Fila 6, Posto 2 | 10,00 €*
 
 == JSON tickets ==
 {
  "tickets": [
-  {
-   "uuid": "32f66504-e71f-4bbd-a28d-9e00468331e1",
-   "section": "Curva Sud",
-   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "SS04",
-   "row": "12",
-   "seat": "25",
-   "price": 1900,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "8b5d7fea-4387-4635-ab60-3754dfbcd4a2",
-   "section": "Curva Sud",
-   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
-   "reductionCodeUuid": "b311876e-14e5-440a-8662-e0b9e9c3bbf2",
-   "subSection": "SS02",
-   "row": "8",
-   "seat": "10",
-   "price": 1900,
-   "priceOfficial": 0,
-   "isMine": false
-  },
   {
    "uuid": "4ff76421-e409-48ac-9df7-6d3ae2ab481a",
    "section": "Gradinata",
@@ -39,18 +16,6 @@ Aggiornato: 2026-11-07 09:06:25.641615
    "row": "13",
    "seat": "4",
    "price": 3000,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "b39fa56b-6b34-48a0-a98a-995e4670845e",
-   "section": "Curva Sud",
-   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "SS05",
-   "row": "13",
-   "seat": "18",
-   "price": 1900,
    "priceOfficial": 0,
    "isMine": false
   },
@@ -86,18 +51,6 @@ Aggiornato: 2026-11-07 09:06:25.641615
    "subSection": "SS04",
    "row": "11",
    "seat": "37",
-   "price": 1900,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "9d378da1-c323-4bb7-93d7-2213eaef2498",
-   "section": "Curva Sud",
-   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "SS04",
-   "row": "1",
-   "seat": "17",
    "price": 1900,
    "priceOfficial": 0,
    "isMine": false
@@ -199,6 +152,18 @@ Aggiornato: 2026-11-07 09:06:25.641615
    "isMine": false
   },
   {
+   "uuid": "c11dcf21-6c2b-42ea-a329-55de99979da9",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "NS12",
+   "row": "8",
+   "seat": "35",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
    "uuid": "9c721ed1-0a2a-418c-832d-99f131abf20e",
    "section": "Curva Sud",
    "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
@@ -230,6 +195,18 @@ Aggiornato: 2026-11-07 09:06:25.641615
    "subSection": "SS03",
    "row": "13",
    "seat": "28",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "88ad0797-11dc-4ab7-9976-3adbcd207b43",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS05",
+   "row": "8",
+   "seat": "18",
    "price": 1900,
    "priceOfficial": 0,
    "isMine": false
@@ -756,20 +733,20 @@ Aggiornato: 2026-11-07 09:06:25.641615
    "reductionCodeUuid": "0e4225d1-a702-41de-a32f-ae486df6440a"
   }
  ],
- "soldCount": 236,
+ "soldCount": 241,
  "lastSold": [
   {
    "section": "Curva Nord",
-   "subSection": "NS06",
-   "row": "7",
-   "seat": "25",
+   "subSection": "NS01",
+   "row": "2",
+   "seat": "3",
    "price": 1900
   },
   {
    "section": "Curva Nord",
-   "subSection": "NS01",
+   "subSection": "NS06",
    "row": "6",
-   "seat": "3",
+   "seat": "33",
    "price": 1900
   }
  ]
