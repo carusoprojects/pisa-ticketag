@@ -1,7 +1,7 @@
-Aggiornato: 2026-11-07 09:05:50.817638
+Aggiornato: 2026-11-07 09:06:25.641615
 
 == Curva Nord ==
-Curva Nord n° NIB2 | UNDER 14 | Fila 1, Posto 3 | 10,00 €*
+
 
 == JSON tickets ==
 {
@@ -63,18 +63,6 @@ Curva Nord n° NIB2 | UNDER 14 | Fila 1, Posto 3 | 10,00 €*
    "row": "7",
    "seat": "37",
    "price": 1500,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "18aad6c0-0081-4be9-a939-5d2a7dd7ef68",
-   "section": "Curva Nord",
-   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
-   "reductionCodeUuid": "0e4225d1-a702-41de-a32f-ae486df6440a",
-   "subSection": "NIB2",
-   "row": "1",
-   "seat": "3",
-   "price": 1000,
    "priceOfficial": 0,
    "isMine": false
   },
