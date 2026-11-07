@@ -1,7 +1,6 @@
-Aggiornato: 2026-11-07 08:41:55.439737
+Aggiornato: 2026-11-07 08:46:22.384555
 
 == Curva Nord ==
-Curva Nord n° NS01 | INTERO | Fila 6, Posto 3 | 19,00 €*
 Curva Nord n° NIB2 | UNDER 14 | Fila 1, Posto 3 | 10,00 €*
 Curva Nord n° NID | INTERO | Fila 3, Posto 6 | 19,00 €*
 
@@ -16,18 +15,6 @@ Curva Nord n° NID | INTERO | Fila 3, Posto 6 | 19,00 €*
    "subSection": "SS04",
    "row": "12",
    "seat": "25",
-   "price": 1900,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "246aefdd-b36b-4682-81b8-097f3cb85079",
-   "section": "Curva Nord",
-   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "NS01",
-   "row": "6",
-   "seat": "3",
    "price": 1900,
    "priceOfficial": 0,
    "isMine": false
