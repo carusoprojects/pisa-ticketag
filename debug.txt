@@ -1,11 +1,23 @@
-Aggiornato: 2026-11-07 09:20:53.012001
+Aggiornato: 2026-11-07 09:26:26.335987
 
 == Curva Nord ==
-Curva Nord n° NS04 | UNDER 14 | Fila 1, Posto 20 | 10,00 €*
+
 
 == JSON tickets ==
 {
  "tickets": [
+  {
+   "uuid": "32f66504-e71f-4bbd-a28d-9e00468331e1",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS04",
+   "row": "12",
+   "seat": "25",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
   {
    "uuid": "8b5d7fea-4387-4635-ab60-3754dfbcd4a2",
    "section": "Curva Sud",
@@ -27,6 +39,18 @@ Curva Nord n° NS04 | UNDER 14 | Fila 1, Posto 20 | 10,00 €*
    "row": "13",
    "seat": "4",
    "price": 3000,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "b39fa56b-6b34-48a0-a98a-995e4670845e",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS05",
+   "row": "13",
+   "seat": "18",
+   "price": 1900,
    "priceOfficial": 0,
    "isMine": false
   },
@@ -62,6 +86,18 @@ Curva Nord n° NS04 | UNDER 14 | Fila 1, Posto 20 | 10,00 €*
    "subSection": "SS04",
    "row": "11",
    "seat": "37",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "9d378da1-c323-4bb7-93d7-2213eaef2498",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS04",
+   "row": "1",
+   "seat": "17",
    "price": 1900,
    "priceOfficial": 0,
    "isMine": false
@@ -722,6 +758,18 @@ Curva Nord n° NS04 | UNDER 14 | Fila 1, Posto 20 | 10,00 €*
    "subSection": "NS01",
    "row": "13",
    "seat": "13",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "fbb1d7b8-b711-428f-81d4-35cdbcf80b21",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "NS09",
+   "row": "11",
+   "seat": "18",
    "price": 1900,
    "priceOfficial": 0,
    "isMine": false
