@@ -1,12 +1,35 @@
-Aggiornato: 2026-11-07 09:19:43.770573
+Aggiornato: 2026-11-07 09:20:18.484044
 
 == Curva Nord ==
-Curva Nord n° NS04 | UNDER 14 | Fila 1, Posto 20 | 10,00 €*
-Curva Nord n° NS15 | UNDER 14 | Fila 6, Posto 2 | 10,00 €*
+
 
 == JSON tickets ==
 {
  "tickets": [
+  {
+   "uuid": "32f66504-e71f-4bbd-a28d-9e00468331e1",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "SS04",
+   "row": "12",
+   "seat": "25",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "8b5d7fea-4387-4635-ab60-3754dfbcd4a2",
+   "section": "Curva Sud",
+   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
+   "reductionCodeUuid": "b311876e-14e5-440a-8662-e0b9e9c3bbf2",
+   "subSection": "SS02",
+   "row": "8",
+   "seat": "10",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
   {
    "uuid": "4ff76421-e409-48ac-9df7-6d3ae2ab481a",
    "section": "Gradinata",
