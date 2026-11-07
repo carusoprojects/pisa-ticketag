@@ -1,8 +1,9 @@
-Aggiornato: 2026-11-07 08:18:35.814432
+Aggiornato: 2026-11-07 08:36:52.482715
 
 == Curva Nord ==
 Curva Nord n° NS06 | UNDER 14 | Fila 7, Posto 12 | 10,00 €*
 Curva Nord n° NIB2 | UNDER 14 | Fila 1, Posto 3 | 10,00 €*
+Curva Nord n° NID | INTERO | Fila 3, Posto 6 | 19,00 €*
 
 == JSON tickets ==
 {
@@ -116,6 +117,18 @@ Curva Nord n° NIB2 | UNDER 14 | Fila 1, Posto 3 | 10,00 €*
    "isMine": false
   },
   {
+   "uuid": "dc51405b-d3ff-44a9-98f0-40613a48e734",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "NID",
+   "row": "3",
+   "seat": "6",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
    "uuid": "9d378da1-c323-4bb7-93d7-2213eaef2498",
    "section": "Curva Sud",
    "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
@@ -124,6 +137,18 @@ Curva Nord n° NIB2 | UNDER 14 | Fila 1, Posto 3 | 10,00 €*
    "row": "1",
    "seat": "17",
    "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
+   "uuid": "e0f56f4b-754b-41fc-b791-a65f937601c3",
+   "section": "Gradinata",
+   "sectionUuid": "a3522fc6-edb8-4ad1-8084-3fd6a34d1cda",
+   "reductionCodeUuid": "b311876e-14e5-440a-8662-e0b9e9c3bbf2",
+   "subSection": "GR09",
+   "row": "14",
+   "seat": "15",
+   "price": 3000,
    "priceOfficial": 0,
    "isMine": false
   },
@@ -160,18 +185,6 @@ Curva Nord n° NIB2 | UNDER 14 | Fila 1, Posto 3 | 10,00 €*
    "row": "10",
    "seat": "4",
    "price": 1000,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "dde2bc1e-9d6e-4256-88fc-415f1632d278",
-   "section": "Curva Nord",
-   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "NS17",
-   "row": "13",
-   "seat": "20",
-   "price": 1900,
    "priceOfficial": 0,
    "isMine": false
   },
@@ -680,6 +693,18 @@ Curva Nord n° NIB2 | UNDER 14 | Fila 1, Posto 3 | 10,00 €*
    "isMine": false
   },
   {
+   "uuid": "2d1b9eba-3968-4ad6-938d-43a7dec58738",
+   "section": "Curva Nord",
+   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
+   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
+   "subSection": "NIA",
+   "row": "6",
+   "seat": "2",
+   "price": 1900,
+   "priceOfficial": 0,
+   "isMine": false
+  },
+  {
    "uuid": "e5430cd0-fc87-4540-83ad-360b1cf59abb",
    "section": "Curva Nord",
    "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
@@ -699,18 +724,6 @@ Curva Nord n° NIB2 | UNDER 14 | Fila 1, Posto 3 | 10,00 €*
    "subSection": "NS04",
    "row": "2",
    "seat": "25",
-   "price": 1900,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "d9dc3ab8-bfc9-4b44-b80e-2c3fd089d230",
-   "section": "Curva Nord",
-   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "NS15B",
-   "row": "13",
-   "seat": "9",
    "price": 1900,
    "priceOfficial": 0,
    "isMine": false
@@ -805,20 +818,20 @@ Curva Nord n° NIB2 | UNDER 14 | Fila 1, Posto 3 | 10,00 €*
    "reductionCodeUuid": "0e4225d1-a702-41de-a32f-ae486df6440a"
   }
  ],
- "soldCount": 231,
+ "soldCount": 233,
  "lastSold": [
   {
    "section": "Curva Nord",
-   "subSection": "NIA",
-   "row": "3",
-   "seat": "14",
-   "price": 1000
+   "subSection": "NS15B",
+   "row": "13",
+   "seat": "9",
+   "price": 1900
   },
   {
    "section": "Curva Nord",
-   "subSection": "NS06",
-   "row": "5",
-   "seat": "14",
+   "subSection": "NS17",
+   "row": "13",
+   "seat": "20",
    "price": 1900
   }
  ]
