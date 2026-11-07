@@ -1,25 +1,12 @@
-Aggiornato: 2026-11-07 06:47:05.560737
+Aggiornato: 2026-11-07 06:47:39.887758
 
 == Curva Nord ==
-Curva Nord n° NS15 | UNDER 14 | Fila 8, Posto 25 | 10,00 €*
 Curva Nord n° NS09 | UNDER 14 | Fila 10, Posto 15 | 10,00 €*
 Curva Nord n° NS06 | UNDER 14 | Fila 7, Posto 12 | 10,00 €*
 
 == JSON tickets ==
 {
  "tickets": [
-  {
-   "uuid": "b6f97cf4-7874-4cd1-b7b8-8d11ded7c763",
-   "section": "Curva Nord",
-   "sectionUuid": "10f4521e-af9e-4ac8-90d8-c8c989a86bb6",
-   "reductionCodeUuid": "0e4225d1-a702-41de-a32f-ae486df6440a",
-   "subSection": "NS15",
-   "row": "8",
-   "seat": "25",
-   "price": 1000,
-   "priceOfficial": 0,
-   "isMine": false
-  },
   {
    "uuid": "32f66504-e71f-4bbd-a28d-9e00468331e1",
    "section": "Curva Sud",
