@@ -1,4 +1,4 @@
-Aggiornato: 2026-11-20 00:18:50.680093
+Aggiornato: 2026-11-20 14:53:40.612034
 
 == Curva Nord ==
 
@@ -386,18 +386,6 @@ Aggiornato: 2026-11-20 00:18:50.680093
    "subSection": "SS02",
    "row": "7",
    "seat": "20",
-   "price": 1900,
-   "priceOfficial": 0,
-   "isMine": false
-  },
-  {
-   "uuid": "f24833b0-8529-4b1a-ace6-a767ced07a71",
-   "section": "Curva Sud",
-   "sectionUuid": "d03ed7c7-0e2e-4d97-b7b6-5cc71638083d",
-   "reductionCodeUuid": "a46fd14d-59ef-425d-801c-72cfefcfb99f",
-   "subSection": "SS05",
-   "row": "9",
-   "seat": "26",
    "price": 1900,
    "priceOfficial": 0,
    "isMine": false
